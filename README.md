@@ -1,0 +1,1 @@
+# vault-macos-stg
